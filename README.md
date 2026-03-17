@@ -10,4 +10,3 @@ Este repositório contém um **protótipo de design** da tela de login do Facebo
 ## 🎯 Objetivo
 Este projeto visa reforçar o conhecimento sobre **estruturação de páginas web**, **posicionamento de elementos**, **design responsivo** e boas práticas de estilização.
 
-Sinta-se à vontade para explorar, modificar e aprimorar este protótipo! 🚀
